@@ -4,7 +4,7 @@
 ## Description
 In this project we attempted to answer the question — To what extent has Elon Musk’s takeover of Twitter affected how users emotionally respond to his content on Twitter?
 
-We explain our project in more detail in this presentation.
+We explain our project in more detail in this [presentation](/presentation.pdf).
 
 ## Method
 - **Data Collection:** To collect data we used the Twitter API.
